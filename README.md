@@ -1,4 +1,4 @@
-# Python Data Visualization Project
+# Python Data Visualization 
 ## Overview
 Visualization helps in understanding complex data patterns easily. Two of the most popular libraries for data visualization in Python are matplotlib and seaborn.
 
